@@ -1,4 +1,4 @@
-# Tạ Thùy Phương Vy_ 24110069
+# Tạ Thùy Phương Vy_ 24110069_ mã lớp ARIN330585_06
 # Tri_Tue_Nhan_Tao
 Dự án nghiên cứu và mô phỏng 6 nhóm thuật toán Trí tuệ nhân tạo áp dụng cho Robot hút bụi thông minh trong môi trường lưới (Grid Environment). Ứng dụng xây dựng trên nền tảng Python Tkinter, giúp trực quan hóa hành vi ra quyết định và so sánh hiệu suất giữa các trường phái AI khác nhau.
 
